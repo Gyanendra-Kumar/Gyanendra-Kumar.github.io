@@ -1,0 +1,132 @@
+#bd{
+    background-color:white;
+}
+
+    #b{width: 500px;
+    margin-top:10px;
+    margin-left: 5px;
+    box-shadow:1px 2px 2px 2px grey;
+    border-radius:2px;
+    
+}
+
+#title{
+    margin-left: 540px;
+    margin-top: -300px;
+    font-size: 30px;
+    font-weight: inherit;
+    font-family: sans-serif;
+font-family: 'Cinzel', serif;
+font-family: 'Rajdhani', sans-serif;
+
+}
+h2{
+    margin-left: 550px;
+    font-size:30px;
+    margin-top: 10px;
+}
+h5{
+    margin-left: 550px;
+    font-size:17px;
+    margin-top: 10px;
+    color: #006400;
+}
+p{
+    margin-left: 640px;
+    margin-top:-18px;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+.list2{
+    margin-left: 640px;
+    margin-top:7px;
+}
+#para{
+    
+    width:650px;
+    margin-left: 650px;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+h3{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+    color: #006400;
+}
+
+h6{ margin-top: 5px;
+    font-size:18px;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+h1{
+    color: #20B2AA;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+#gen1{
+    border:1px solid grey;
+    width: 650px;
+    margin-left:5px;
+    background-color:white;
+    box-shadow:1px 1px 1px 1px grey;
+    border-radius:2px;
+}
+#general{
+    margin-left: 10px;
+}
+.general{
+    margin-top: 5px;
+    margin-left:10px;
+    color:rgb(133, 167, 12);
+}
+.para1{
+    width:430px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+#product{
+    border:1px solid grey;
+    margin-left: 690px;
+    width: 650px;
+    margin-top:-308px;
+    background-color:white;
+    box-shadow:1px 1px 1px 1px grey;
+    border-radius:2px;
+    height: 310px;
+}
+#additional{
+    border:1px solid grey;
+    width: 650px;
+    margin-left:5px;
+    background-color:white;
+    box-shadow:1px 1px 1px 1px grey;
+    border-radius:2px;
+}
+.ans{
+    margin-top:-5px;
+    margin-left: 12px;
+    padding:3px;
+}
+#ques{
+    margin-top:10px;
+    width: 649px;
+    height: 240px;
+    margin-left: 690px;
+    margin-top:-240px;
+    background-color: white;
+    border:1px solid grey;
+    box-shadow:1px 2px 1px 1px grey;
+    border-radius:2px;
+    padding: 5px;
+}

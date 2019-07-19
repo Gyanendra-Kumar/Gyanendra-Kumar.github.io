@@ -1,0 +1,101 @@
+#women{
+  margin-top: 15px;
+  margin-left: 6px;
+  width: 1340px;
+  padding: 6px;
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 4px 5px 6px 8px Gainsboro;
+  font-family:  sans-serif;
+  color: black;
+  height: 280px;
+
+}
+#women:hover{
+  color: red;
+}
+.furn-design{
+  margin-left: 30px;
+
+}
+.furn-name{
+width: 300px;
+color: green;
+font-size: 14px;
+}
+.furn-name:hover{
+  color: gray;
+}
+a{
+text-decoration: none;
+}
+
+#furn-design1{
+margin-top: 23px;
+color: black;
+width: 300px;
+}
+#furn-design1:hover{
+-ms-transform: scale(1.03); /* IE 9 */
+-webkit-transform: scale(1.03); /* Safari 3-8 */
+transform: scale(1.03);
+
+border-radius: 3px;
+box-sizing: border-box;
+width: 300px;
+box-shadow: 3px 4px 5px 3px Gainsboro;
+}
+
+#furn-design2{
+margin-left: 320px;
+margin-top: -204px;
+color: black;
+width: 300px;
+}
+#furn-design2:hover{
+-ms-transform: scale(1.03); /* IE 9 */
+-webkit-transform: scale(1.03); /* Safari 3-8 */
+transform: scale(1.03);
+border-radius: 3px;
+box-sizing: border-box;
+width: 300px;
+box-shadow: 3px 4px 5px 3px Gainsboro;
+}
+#furn-design3{
+margin-left: 640px;
+margin-top: -204px;
+color: black;
+width: 300px;
+}
+#furn-design3:hover{
+-ms-transform: scale(1.03); /* IE 9 */
+-webkit-transform: sc0le(1.03); /* Safari 3-8 */
+transform: scale(1.03);
+border-radius: 3px;
+box-sizing: border-box;
+width: 300px;
+box-shadow: 3px 4px 5px 3px Gainsboro;
+}
+
+#furn-design4{
+margin-left: 965px;
+margin-top: -198px;
+color: black;
+width: 300px;
+}
+#furn-design4:hover{
+-ms-transform: scale(1.03); /* IE 9 */
+-webkit-transform: scale(1.03); /* Safari 3-8 */
+transform: scale(1.03);
+border-radius: 3px;
+box-sizing: border-box;
+width: 300px;
+box-shadow: 3px 4px 5px 3px Gainsboro;
+}
+.price{
+background-color: white;
+color: 00FF00;
+}
+.price:hover{
+  color: red;
+}

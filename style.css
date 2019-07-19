@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+ background-color: #F0F0F0;
+}
+#name{
+  margin-top: 20px;
+  color: white;
+  margin-left: 30px;
+  font-family: sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin-top: -40px ;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(35, 137, 221);
+}
+
+li {
+    float: right;
+    margin-right: 20px;
+}
+
+
+li a, .dropbutton {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+li a:hover, .drop:hover .dropbutton {
+    background-color: rgb(35, 137, 221);
+    text-decoration: underline;
+}
+
+li.drop {
+    display: inline-block;
+}
+
+.drop-cont {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.drop-cont a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.drop-cont a:hover {background-color: #f1f1f1}
+
+.drop:hover .drop-cont {
+    display: block;
+}
